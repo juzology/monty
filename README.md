@@ -1,1 +1,1 @@
-team project by joseph and daniel
+We are working on this new project Stacks, Queues - LIFO, FIFO
